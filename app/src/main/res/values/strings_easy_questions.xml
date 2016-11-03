@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="easy_question_1">В каком городе спрятались мужское имя и сторона света?</string>
+    <string name="easy_question_1_answer">Владивосток</string>
+    <string name="easy_question_2">В каком слове «нет» употребляется 100 раз?</string>
+    <string name="easy_question_2_answer">Стонет</string>
+    <string name="easy_question_3">Перед каким простым смертным даже президент снимает шапку?</string>
+    <string name="easy_question_3_answer">Парикмахер</string>
+    <string name="easy_question_4">Река, которая «помещается» во рту?</string>
+    <string name="easy_question_4_answer">Десна</string>
+    <string name="easy_question_5">Название какой рыбы надо прочесть наоборот, чтобы получить город в Италии?</string>
+    <string name="easy_question_5_answer">Налим</string>
+    <string name="easy_question_6">У отца Мэри есть 5 дочерей: Чача, Чичи, Чече, Чочо. Как зовут 5 дочь?</string>
+    <string name="easy_question_6_answer">Мэри</string>
+    <string name="easy_question_7">Грузовик ехал в деревню. По дороге он встретил 4 легковые машины. Сколько машин ехало в деревню?</string>
+    <string name="easy_question_7_answer">1</string>
+    <string name="easy_question_8">Росло четыре осины,
+  Каждой по четыре больших ветки,
+  На каждой большой ветке по четыре маленьких ветки,
+  На каждой маленькой ветке по четыре яблока.
+  Сколько всего яблок?</string>
+    <string name="easy_question_8_answer">0</string>
+    <string name="easy_question_9">Если увеличить диаметр круга в 2 раза, то во сколько раз увеличиться его площадь?</string>
+    <string name="easy_question_9_answer">4</string>
+</resources>

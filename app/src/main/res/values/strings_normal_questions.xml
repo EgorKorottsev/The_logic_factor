@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="normal_question_1">В каком виде оружия есть число и года?</string>
+    <string name="normal_question_1_answer">Пистолет</string>
+    <string name="normal_question_2">Стоит мельница, в ней живёт сторож. У сторожа есть собака . На той мельнице четыре окошка, на четырёх окошках по четыре кошки, у каждой кошки по четыре котёнка, у каждого котёнка по четыре мышонка. Сколько всего ног?</string>
+    <string name="normal_question_2_answer">2</string>
+    <string name="normal_question_3">Сколько земли содержит яма диаметром 3 метра и глубиной 3 метра?</string>
+    <string name="normal_question_3_answer">0</string>
+    <string name="normal_question_4">Узловат Кузьма, развязать нельзя! Что это?</string>
+    <string name="normal_question_4_answer">Цепь</string>
+    <string name="normal_question_5">Что ваши друзья и знакомые используют чаще чем вы, но это является вашей собственностью?</string>
+    <string name="normal_question_5_answer">Имя</string>
+    <string name="normal_question_6">Что можно видеть с закрытыми глазами?</string>
+    <string name="normal_question_6_answer">Сон</string>
+    <string name="normal_question_7">Завязать можно, а развязать нельзя?</string>
+    <string name="normal_question_7_answer">Разговор</string>
+    <string name="normal_question_8">2 часа ночи, горит свет, Игорь лежит в постели и листает книгу. Вдруг он видит, что в окно лезут воры. Они забрались в комнату и украли все драгоценности. Утром пришла полиция, но Игорь не смог им рассказать, что было ночью. Игорь не глухой, не нимой и не слепой. Почему он не смог рассказать?</string>
+    <string name="normal_question_8_answer">Малыш</string>
+    <string name="normal_question_9">Летом спит, пасть открывает, что дают, глотает?</string>
+    <string name="normal_question_9_answer">Печь</string>
+</resources>

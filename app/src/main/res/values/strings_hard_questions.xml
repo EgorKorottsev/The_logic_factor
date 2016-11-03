@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hard_question_1">В каком слове 5 "е" и никаких других гласных?</string>
+    <string name="hard_question_1_answer">Переселенец</string>
+    <string name="hard_question_2">В каком слове 7 букв «о» и никаких других гласных?</string>
+    <string name="hard_question_2_answer">Обороноспособность</string>
+    <string name="hard_question_3">Продолжите ряд: С О Н Д Я Ф М ... Укажите две буквы без запятых</string>
+    <string name="hard_question_3_answer">АМ</string>
+    <string name="hard_question_4">Где находятся города без домов, реки без воды и леса без деревьев</string>
+    <string name="hard_question_4_answer">Карта</string>
+    <string name="hard_question_5">Начнём считать пальцы на правой руке: 1-й - мизинец, 2-й - безымянный, 3-й - средний, 4-й - указательный, 5-й - большой, 6-й - снова указательный, 7-й - снова средний, 8-й - безымянный, 9-й - мизинец, 10-й - безымянный и т. д.
+Какой палец будет по счёту 2016-м?</string>
+    <string name="hard_question_5_answer">Безымянный</string>
+    <string name="hard_question_6">У почтальона Печкина украли фотоаппарат. В здании почты в это время находились три мальчика: Коля, Саша и Юра. Дядя Степа опросил всех мальчиков. Коля утверждал, что фотоаппарат стащил Саша. Саша сказал, что он не крал фотоаппарата. Юра заявил, что он ни в чем не виноват. Но дядя Степа сразу понял, что только один мальчик не лгал. Кто же вор?</string>
+    <string name="hard_question_6_answer">Юра</string>
+    <string name="hard_question_7">Какая река на юге России носит имя крупного животного?</string>
+    <string name="hard_question_7_answer">Медведица</string>
+    <string name="hard_question_8">Соедините название планеты и дерева, чтобы получить название города. Какой это город?</string>
+    <string name="hard_question_8_answer">Марсель</string>
+    <string name="hard_question_9">Если между двумя одинаковыми буквами поставишь название лошади, то получишь название государства. Какое это государство?</string>
+    <string name="hard_question_9_answer">Япония</string>
+</resources>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:gravity="top"
+    android:background="@drawable/background">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:weightSum="1">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_weight="0.04"
+            android:gravity="center_horizontal"
+            android:layout_marginBottom="2dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Вопросы средней сложности"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="5dp"
+                android:textSize="25sp"
+                android:id="@+id/textTypeQuestion"/>
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/money"
+                android:layout_marginTop="5dp"
+                android:layout_marginRight="8dp"
+                android:layout_marginLeft="8dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="7dp"
+                android:text="222"
+                android:textSize="25sp"
+                android:id="@+id/textViewAmountMoney"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_horizontal"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="8dp">
+
+            <Button
+                android:layout_width="120dp"
+                android:layout_height="70dp"
+                android:text="@string/number_1"
+                android:textSize="24sp"
+                android:id="@+id/button_question_1"/>
+
+            <Button
+                android:layout_width="120dp"
+                android:layout_height="70dp"
+                android:text="@string/number_2"
+                android:textSize="24sp"
+                android:id="@+id/button_question_2"/>
+
+            <Button
+                android:layout_width="120dp"
+                android:layout_height="70dp"
+                android:text="@string/number_3"
+                android:textSize="24sp"
+                android:id="@+id/button_question_3"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_horizontal"
+            android:layout_marginBottom="10dp">
+
+            <Button
+                android:layout_width="120dp"
+                android:layout_height="70dp"
+                android:text="@string/number_4"
+                android:textSize="24sp"
+                android:id="@+id/button_question_4"/>
+
+            <Button
+                android:layout_width="120dp"
+                android:layout_height="70dp"
+                android:text="@string/number_5"
+                android:textSize="24sp"
+                android:id="@+id/button_question_5"/>
+
+            <Button
+                android:layout_width="120dp"
+                android:layout_height="70dp"
+                android:text="@string/number_6"
+                android:textSize="24sp"
+                android:id="@+id/button_question_6"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_horizontal"
+            android:layout_marginBottom="10dp">
+
+            <Button
+                android:layout_width="120dp"
+                android:layout_height="70dp"
+                android:text="@string/number_7"
+                android:textSize="24sp"
+                android:id="@+id/button_question_7"/>
+
+            <Button
+                android:layout_width="120dp"
+                android:layout_height="70dp"
+                android:text="@string/number_8"
+                android:textSize="24sp"
+                android:id="@+id/button_question_8"/>
+
+            <Button
+                android:layout_width="120dp"
+                android:layout_height="70dp"
+                android:text="@string/number_9"
+                android:textSize="24sp"
+                android:id="@+id/button_question_9"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_horizontal">
+
+            <ImageButton
+                android:id="@+id/next_button"
+                android:layout_width="120dp"
+                android:layout_height="60dp"
+                android:src="@drawable/picture_strelka_2">
+            </ImageButton>
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

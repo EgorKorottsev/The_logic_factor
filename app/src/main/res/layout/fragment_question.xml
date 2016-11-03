@@ -1,0 +1,63 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:layout_gravity="center_horizontal"
+    android:background="@drawable/background">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="В каком городе спрятались мужское имя и сторона света?"
+        android:paddingBottom="55dp"
+        android:id="@+id/textViewQuestion"
+        android:gravity="center_horizontal" />
+
+    <EditText
+        android:layout_width="141dp"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:id="@+id/editText"
+        android:hint="@string/text_answer"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_horizontal">
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/picture_strelka_1"
+            android:id="@+id/prev_question"
+            tools:ignore="ContentDescription" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="@string/text_confirm"
+            android:id="@+id/confirm"/>
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/picture_strelka_2"
+            android:id="@+id/next_question"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_horizontal">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/text_support"
+            android:id="@+id/support"/>
+
+    </LinearLayout>
+
+</LinearLayout>
